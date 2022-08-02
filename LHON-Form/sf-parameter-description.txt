@@ -1,0 +1,7 @@
+0,4;10*(2,4&2,0.25)
+
+0,4;10*(2,0.25&2,4)
+
+startTime, multiplier ; repeat * ( time1, mult1 & time2, mult2)
+
+at startTime apply multiplier at startTime+i*time1 apply mult1 and at startTime+i*time2 apply mult2
