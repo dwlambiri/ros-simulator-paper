@@ -19,12 +19,12 @@ Results that use this code were published here: [REF]
 ![image](https://user-images.githubusercontent.com/28689806/186224837-26e9c47c-4a84-4143-adc0-8c8eae5d72e1.png)
 ![image](https://user-images.githubusercontent.com/28689806/186224869-6990c795-2a0a-44d5-9b7b-da019c08076f.png)
 
-# Unmyelinated regions Example 1
+# Unmyelinated Region Example 1
 ![image](https://user-images.githubusercontent.com/28689806/186224972-3b12d506-26a9-4006-8472-7ca1ed338253.png)
 ![image](https://user-images.githubusercontent.com/28689806/186225010-b9579c41-bb21-48cf-881b-1d2e3052d92d.png)
 
 
-# Unmyelinated regions Example 2
+# Unmyelinated Region Example 2
 ![image](https://user-images.githubusercontent.com/28689806/186225087-c4ee4c5f-b912-4a2f-9c5d-b2b3f7d2d516.png)
 ![image](https://user-images.githubusercontent.com/28689806/186225131-f6d43293-8ce7-4831-9d20-a85adb91601c.png)
 
