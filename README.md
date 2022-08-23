@@ -3,7 +3,9 @@
 Reaction-Diffusion simulator using C# and Cudafy.NET (LHON-Form Directory)
 
 Collaboration with Dr. Leonard Levin (1,2)
+
 (1) Department of Ophthalmology and Visual Sciences, McGill University, Montreal, Canada
+
 (2) Department of Neurology & Neurosurgery, McGill University, Montreal, Canada
 
 
