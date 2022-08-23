@@ -31,7 +31,7 @@ Results that use this code were published here: [REF]
 
 # Original LHON Simulator Code
 
-The v1.0 of the simulator, developed by Coussa et all 2019 (https://www.nature.com/articles/s41598-019-43180-z) is stored here: https://github.com/dwlambiri/LHON-Sim
+The v1.0 of the simulator, developed by Coussa et all 2019 (https://www.nature.com/articles/s41598-019-43180-z, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6491426/) is stored here: https://github.com/dwlambiri/LHON-Sim
 
 # Cudafy.NET
 The Cudafy code is from here: https://github.com/rapiddev/CUDAfy.NET
