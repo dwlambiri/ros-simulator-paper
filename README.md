@@ -1,10 +1,21 @@
 # gpu-reaction-diffusion
 Reaction-Diffusion simulator using C# and Cudafy.NET (LHON-Form Directory)
 
+The code for results published here: [REF]
 
-![image](https://user-images.githubusercontent.com/28689806/178111946-c3eaa97b-2366-4183-a619-f000e192d56c.png)
-![image](https://user-images.githubusercontent.com/28689806/178111984-ea2f9efe-30a3-4b23-aa23-2a5171eec486.png)
+![image](https://user-images.githubusercontent.com/28689806/186224817-cd69991d-cfc5-46ef-8e78-7a6a5d41ea0b.png)
+![image](https://user-images.githubusercontent.com/28689806/186224789-84e725cf-b20c-416a-9c90-996e37588322.png)
 
+![image](https://user-images.githubusercontent.com/28689806/186224837-26e9c47c-4a84-4143-adc0-8c8eae5d72e1.png)
+![image](https://user-images.githubusercontent.com/28689806/186224869-6990c795-2a0a-44d5-9b7b-da019c08076f.png)
+
+
+![image](https://user-images.githubusercontent.com/28689806/186224972-3b12d506-26a9-4006-8472-7ca1ed338253.png)
+![image](https://user-images.githubusercontent.com/28689806/186225010-b9579c41-bb21-48cf-881b-1d2e3052d92d.png)
+
+
+![image](https://user-images.githubusercontent.com/28689806/186225087-c4ee4c5f-b912-4a2f-9c5d-b2b3f7d2d516.png)
+![image](https://user-images.githubusercontent.com/28689806/186225131-f6d43293-8ce7-4831-9d20-a85adb91601c.png)
 
 
 # Original LHON Simulator Code
