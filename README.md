@@ -1,4 +1,4 @@
-# Optic Nerver ROS 3D Simulator
+# Optic Nerve 3D ROS Simulator
 
 Reaction-Diffusion simulator using C# and Cudafy.NET (LHON-Form Directory)
 
