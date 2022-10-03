@@ -9,7 +9,7 @@ Collaboration with Dr. Leonard Levin (1,2)
 (2) Department of Neurology & Neurosurgery, McGill University, Montreal, Canada
 
 
-Results that use this code were published here: [REF]
+Results that use this code were published here: https://www.mdpi.com/2218-273X/12/10/1411/htm
 
 # Nodes of Ranvier Example 1
 ![image](https://user-images.githubusercontent.com/28689806/186224817-cd69991d-cfc5-46ef-8e78-7a6a5d41ea0b.png)
